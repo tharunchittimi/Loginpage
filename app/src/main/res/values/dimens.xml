@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    header text dimensions-->
+    <dimen name="headertext_size">20sp</dimen>
+
+    <dimen name="headertext_margintop">20dp</dimen>
+    <dimen name="headertext_marginleft">20dp</dimen>
+
+
+
+
+
+<!--    register hero  dimensions-->
+    <dimen name="registerhero_margintop">20dp</dimen>
+    <dimen name="registerhero_marginright">30dp</dimen>
+    <dimen name="registerhero_layoutwidth">100dp</dimen>
+    <dimen name="registerhero_layoutheight">100dp</dimen>
+
+
+
+
+
+<!--    Edit text -->
+    <dimen name="Edittext_layoutwidth">360dp</dimen>
+    <dimen name="Edittext_activity2_layoutwidth">300dp</dimen>
+
+    <!--    Edit text email -->
+    <dimen name="Edittext_email_margintop">10dp</dimen>
+    <dimen name="Edittext_name_margintop">40dp</dimen>
+
+    <!--    Edit text password -->
+    <dimen name="Edittext_password_margintop">60dp</dimen>
+
+
+
+
+
+<!--    forgot password text-->
+    <dimen name="text_forgotpassword_margintop">40dp</dimen>
+    <dimen name="text_forgotpassword_marginright">20dp</dimen>
+
+
+
+
+
+<!--    image button-->
+    <dimen name="imagebutton_login_margintop">60dp</dimen>
+    <dimen name="imagebutton_register_margintop">60dp</dimen>
+
+
+
+
+
+    <!--    login text-->
+    <dimen name="text_login_margintop">50dp</dimen>
+
+
+
+
+
+    <!--    bottom text-->
+    <dimen name="bottomtext_margintop">15dp</dimen>
+    <dimen name="bottomtext_size">20dp</dimen>
+    <dimen name="bottomtext_2_margintop">50dp</dimen>
+
+
+
+
+
+<!--    usetext-->
+    <dimen name="usetext_size">15sp</dimen>
+    <dimen name="usetext_margintop">50dp</dimen>
+
+    <!--    use text activity2-->
+    <dimen name="usetext_2_margintop">560dp</dimen>
+
+
+
+
+
+<!--lenierlayout dimensions    -->
+    <dimen name="lenierlayout_margintop">40dp</dimen>
+
+
+
+
+
+<!--    google dimens-->
+    <dimen name="google_marginleft">10dp</dimen>
+
+
+
+
+
+<!--    relativelayout 2-->
+    <dimen name="relativelayout_width">350dp</dimen>
+    <dimen name="relativelayout_height">360dp</dimen>
+    <dimen name="relativelayout_margintop">165dp</dimen>
+
+
+</resources>

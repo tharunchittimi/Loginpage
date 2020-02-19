@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="Edittext_activity2_layoutwidth">400.00dp</dimen>
+	<dimen name="Edittext_email_margintop">13.33dp</dimen>
+	<dimen name="Edittext_layoutwidth">480.00dp</dimen>
+	<dimen name="Edittext_name_margintop">53.33dp</dimen>
+	<dimen name="Edittext_password_margintop">80.00dp</dimen>
+	<dimen name="bottomtext_2_margintop">66.67dp</dimen>
+	<dimen name="bottomtext_margintop">20.00dp</dimen>
+	<dimen name="bottomtext_size">26.67dp</dimen>
+	<dimen name="google_marginleft">13.33dp</dimen>
+	<dimen name="headertext_marginleft">26.67dp</dimen>
+	<dimen name="headertext_margintop">26.67dp</dimen>
+	<dimen name="imagebutton_login_margintop">80.00dp</dimen>
+	<dimen name="imagebutton_register_margintop">80.00dp</dimen>
+	<dimen name="lenierlayout_margintop">53.33dp</dimen>
+	<dimen name="registerhero_layoutheight">133.33dp</dimen>
+	<dimen name="registerhero_layoutwidth">133.33dp</dimen>
+	<dimen name="registerhero_marginright">40.00dp</dimen>
+	<dimen name="registerhero_margintop">26.67dp</dimen>
+	<dimen name="relativelayout_height">480.00dp</dimen>
+	<dimen name="relativelayout_margintop">220.00dp</dimen>
+	<dimen name="relativelayout_width">466.67dp</dimen>
+	<dimen name="text_forgotpassword_marginright">26.67dp</dimen>
+	<dimen name="text_forgotpassword_margintop">53.33dp</dimen>
+	<dimen name="text_login_margintop">66.67dp</dimen>
+	<dimen name="usetext_2_margintop">746.67dp</dimen>
+	<dimen name="usetext_margintop">66.67dp</dimen>
+	<dimen name="headertext_size">26.67sp</dimen>
+	<dimen name="usetext_size">20.00sp</dimen>
+</resources>
